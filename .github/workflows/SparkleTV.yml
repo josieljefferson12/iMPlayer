@@ -1,0 +1,52 @@
+name: Sparkle TV
+
+on:
+  schedule:
+    - cron: '0 3,9,15,21 * * *'  # Executa às 03:00, 09:00, 15:00 e 21:00 UTC
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
+
+    - name: Instalar dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Executar script iMPlayer
+      run: python Sparkle.py
+
+    - name: Adicionar timestamp nos arquivos baixados
+      run: |
+        find iMPlayer -type f -exec sh -c 'echo "# Atualizado em $(date)" >> "$1"' _ {} \;
+
+    - name: Confirmar arquivos baixados
+      run: ls -la iMPlayer
+
+    - name: Verificar mudanças no Git
+      id: git_status
+      run: echo "CHANGES=$(git status --porcelain | wc -l)" >> $GITHUB_ENV
+
+    - name: Commit e push se houver mudanças
+      if: env.CHANGES != '0'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add iMPlayer/
+        git commit -m "Atualização automática dos arquivos baixados"
+        git pull --rebase origin main
+        git push https://x-access-token:${{ secrets.iMPlayer_GITHUB_TOKEN }}@github.com/josieljefferson12/iMPlayer.git main
+
+    - name: Notificar resultado
+      run: echo "Workflow concluído com sucesso!" || echo "Workflow falhou!"
+    
