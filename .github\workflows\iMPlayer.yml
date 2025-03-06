@@ -1,0 +1,78 @@
+name: iMPlayer
+
+on:
+  schedule:
+    - cron: '0 3,9,15,21 * * *'  # Executa às 00:00, 06:00, 12:00 e 18:00 BRT
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Instalar dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Executar script de iMPlayer
+      run: python iMPlayer.py
+
+    - name: Atualizar timestamp nos arquivos baixados
+      run: |
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_1.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_1.xml.gz
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_2.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_2.xml.gz
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_3.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_3.xml.gz
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_4.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_5.m3u
+
+    - name: Confirmar arquivos baixados
+      run: ls -la iMPlayer
+
+    - name: Verificar mudanças no Git
+      id: git_status
+      run: |
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "changes=true" >> $GITHUB_ENV
+        else
+          echo "changes=false" >> $GITHUB_ENV
+        fi
+
+    - name: Commit e push do arquivo baixado (se houver mudanças)
+      if: env.changes == 'true'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add iMPlayer/
+        git commit -m "Atualização automática dos arquivos baixados"
+        git pull --rebase origin main
+        git push https://x-access-token:${{ secrets.MY_DOWNLOAD_GITHUB_TOKEN }}@github.com/josieljefferson12/iMPlayer.git main
+
+    - name: Notificar sucesso
+      if: success()
+      run: |
+        echo "Workflow executado com sucesso!"
+
+    - name: Notificar falha
+      if: failure()
+      run: |
+        echo "Workflow falhou!"
