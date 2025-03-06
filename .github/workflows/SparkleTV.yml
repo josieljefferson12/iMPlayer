@@ -24,7 +24,7 @@ jobs:
         pip install requests
 
     - name: Executar script iMPlayer
-      run: python Sparkle.py
+      run: python SparkleTV.py
 
     - name: Adicionar timestamp nos arquivos baixados
       run: |
