@@ -1,0 +1,29 @@
+name: ADULTOS
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  gerar_epg:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # Busca o token do GitHub Secrets
+      GITHUB_REPO: "josieljefferson12/TiviMate"
+      GITHUB_BRANCH: "main"
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Configurar o Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: pip install requests gitpython
+
+      - name: Executar script
+        run: python adultos.py
