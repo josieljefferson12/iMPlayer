@@ -9,7 +9,7 @@ jobs:
   gerar_epg:
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # Busca o token do GitHub Secrets
+      GITHUB_TOKEN: ${{ secrets.iMPlayer_GITHUB_TOKEN }} # Busca o token do GitHub Secrets
       GITHUB_REPO: "josieljefferson12/iMPlayer"
       GITHUB_BRANCH: "main"
 
