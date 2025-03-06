@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 
 # Diretório de saída
-OUTPUT_DIR = "iMPlayer l"
+OUTPUT_DIR = "iMPlayer"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # URLs da playlist e EPG
