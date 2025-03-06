@@ -1,0 +1,29 @@
+name: TiviMate EPG
+
+on:
+  schedule:
+    - cron: '0 6,12,18 * * *'  # Executa a cada 6h no horário de Fortaleza
+  workflow_dispatch:
+
+jobs:
+  gerar_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: pip install requests gitpython
+
+      - name: Executar script de atualização do EPG
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_REPO: "josieljefferson12/iMPlayer"
+          GITHUB_BRANCH: "main"
+        run: python TiviMate.py
