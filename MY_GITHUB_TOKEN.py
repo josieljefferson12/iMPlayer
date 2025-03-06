@@ -17,7 +17,7 @@ EPG_URL = "http://m3u4u.com/epg/3wk1y24kx7uzdevxygz7"
 
 # Configurações do GitHub
 GITHUB_REPO = os.getenv("GITHUB_REPO", "josieljefferson12/iMPlayer")
-GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
+GITHUB_TOKEN = os.getenv("iMPlayer_GITHUB_TOKEN")
 GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main")
 OUTPUT_FILE = "playlist.epg.xml"
 
