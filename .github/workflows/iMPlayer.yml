@@ -65,7 +65,7 @@ jobs:
         git add iMPlayer/
         git commit -m "Atualização automática dos arquivos baixados"
         git pull --rebase origin main
-        git push https://x-access-token:${{ secrets.MY_DOWNLOAD_GITHUB_TOKEN }}@github.com/josieljefferson12/iMPlayer.git main
+        git push https://x-access-token:${{ secrets.iMPlayer_GITHUB_TOKEN }}@github.com/josieljefferson12/iMPlayer.git main
 
     - name: Notificar sucesso
       if: success()
