@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="RedeTV(Portuguese).br">
+<display-name>O Dia TV</display-name>
+</channel>
+<channel id="SBT(Portuguese).br">
+<display-name>TV CIDADE VERDE PICOS FHD</display-name>
+<display-name>TV CIDADE VERDE TERESINA HD</display-name>
+</channel>
+<channel id="TVAlvoradadoSul(Portuguese).br">
+<display-name>ATV - AO VIVO E ENJOY CINEMA</display-name>
+<display-name>playlist - josieljefferson@protonmail.com</display-name>
+<display-name>playlists - josieljefferson@protonmail.com</display-name>
+</channel>
+<channel id="TVAntena10(Portuguese).br">
+<display-name>ANTENA 10 HD</display-name>
+<display-name>TV Canção Nova</display-name>
+<display-name>TV Gallo</display-name>
+</channel>
+<channel id="TVCidadeVerde(Portuguese).br">
+<display-name>TV CIDADE VERDE PICOS</display-name>
+<display-name>TV CIDADE VERDE TERESINA</display-name>
+</channel>
+<programme start="20250312003000 +0000" stop="20250312014500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">TV Fama</title>
+<desc lang="pt-BR">Fique por dentro do que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ricos e famosos.</desc>
+</programme>
+<programme start="20250312014500 +0000" stop="20250312023000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250312023000 +0000" stop="20250312033000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">NFL Show</title>
+<desc lang="pt-BR">As últimas notícias, principais jogadas e polêmicas da maior liga de futebol americano do mundo.</desc>
+</programme>
+<programme start="20250312033000 +0000" stop="20250312043000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Leitura Dinâmica</title>
+<desc lang="pt-BR">Acompanhe a revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+</programme>
+<programme start="20250312043000 +0000" stop="20250312060000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Madrugada Animada</title>
+<desc lang="pt-BR">João Kléber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+</programme>
+<programme start="20250312060000 +0000" stop="20250312080000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja da Graça no Seu Lar</title>
+<desc lang="pt-BR">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+</programme>
+<programme start="20250312080000 +0000" stop="20250312113000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250312113000 +0000" stop="20250312123000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250312123000 +0000" stop="20250312130000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Ultrafarma</title>
+<desc lang="pt-BR">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+</programme>
+<programme start="20250312130000 +0000" stop="20250312143000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Você na TV</title>
+<desc lang="pt-BR">Um verdadeiro show de variedades marcado pela interatividade. De forma leve e bem humorada, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamentos e diversas dificuldades cotidianas.</desc>
+</programme>
+<programme start="20250312143000 +0000" stop="20250312160000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Fica com a Gente</title>
+<desc lang="pt-BR">Chef Edu Guedes prepara receitas práticas com a finalidade de entreter e ensinar os telespectadores.</desc>
+</programme>
+<programme start="20250312160000 +0000" stop="20250312180000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250312180000 +0000" stop="20250312200000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Tarde É Sua</title>
+<desc lang="pt-BR">Acompanhe as novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+</programme>
+<programme start="20250312200000 +0000" stop="20250312210000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250312210000 +0000" stop="20250312220000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250312220000 +0000" stop="20250312222000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Elas em Jogo</title>
+<desc lang="pt-BR">Todos os melhores momentos do futebol feminino, com muitas entrevistas e bate-papo com jogadoras.</desc>
+</programme>
+<programme start="20250312222000 +0000" stop="20250312233000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">RedeTV! News</title>
+<desc lang="pt-BR">Acompanhe os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+</programme>
+<programme start="20250312233000 +0000" stop="20250313003000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250313003000 +0000" stop="20250313014500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Hipercap Brasil</title>
+<desc lang="pt-BR">Sorteios de diversos títulos de créditos de empresas de capitalização.</desc>
+</programme>
+<programme start="20250313014500 +0000" stop="20250313030000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">SuperPop</title>
+<desc lang="pt-BR">Luciana Gimenez traz ao palco personagens da vida real com suas histórias autênticas e reveladoras.</desc>
+</programme>
+<programme start="20250313030000 +0000" stop="20250313034500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250313034500 +0000" stop="20250313043000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Leitura Dinâmica</title>
+<desc lang="pt-BR">Acompanhe a revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+</programme>
+<programme start="20250313043000 +0000" stop="20250313060000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Madrugada Animada</title>
+<desc lang="pt-BR">João Kléber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+</programme>
+<programme start="20250313060000 +0000" stop="20250313080000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja da Graça no Seu Lar</title>
+<desc lang="pt-BR">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+</programme>
+<programme start="20250313080000 +0000" stop="20250313113000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250313113000 +0000" stop="20250313123000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250313123000 +0000" stop="20250313130000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Ultrafarma</title>
+<desc lang="pt-BR">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+</programme>
+<programme start="20250313130000 +0000" stop="20250313143000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Você na TV</title>
+<desc lang="pt-BR">Um verdadeiro show de variedades marcado pela interatividade. De forma leve e bem humorada, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamentos e diversas dificuldades cotidianas.</desc>
+</programme>
+<programme start="20250313143000 +0000" stop="20250313160000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Fica com a Gente</title>
+<desc lang="pt-BR">Chef Edu Guedes prepara receitas práticas com a finalidade de entreter e ensinar os telespectadores.</desc>
+</programme>
+<programme start="20250313160000 +0000" stop="20250313180000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250313180000 +0000" stop="20250313200000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Tarde É Sua</title>
+<desc lang="pt-BR">Acompanhe as novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+</programme>
+<programme start="20250313200000 +0000" stop="20250313210000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250313210000 +0000" stop="20250313220000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250313220000 +0000" stop="20250313222000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Elas em Jogo</title>
+<desc lang="pt-BR">Todos os melhores momentos do futebol feminino, com muitas entrevistas e bate-papo com jogadoras.</desc>
+</programme>
+<programme start="20250313222000 +0000" stop="20250313233000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">RedeTV! News</title>
+<desc lang="pt-BR">Acompanhe os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+</programme>
+<programme start="20250313233000 +0000" stop="20250314003000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250314003000 +0000" stop="20250314013000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">TV Fama</title>
+<desc lang="pt-BR">Fique por dentro do que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ricos e famosos.</desc>
+</programme>
+<programme start="20250314013000 +0000" stop="20250314024500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Sensacional</title>
+<desc lang="pt-BR">Fique por dentro das curiosidades do mundo e também da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea, com muita música, dança e quadros irreverentes.</desc>
+</programme>
+<programme start="20250314024500 +0000" stop="20250314034500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">É Notícia</title>
+<desc lang="pt-BR">Acompanhe entrevistas com personalidades que se destacam em suas áreas de atuação, mostrando o lado público e o lado cidadão dos convidados.</desc>
+</programme>
+<programme start="20250314034500 +0000" stop="20250314043000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Leitura Dinâmica</title>
+<desc lang="pt-BR">Acompanhe a revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+</programme>
+<programme start="20250314043000 +0000" stop="20250314060000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Madrugada Animada</title>
+<desc lang="pt-BR">João Kléber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+</programme>
+<programme start="20250314060000 +0000" stop="20250314080000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja da Graça no Seu Lar</title>
+<desc lang="pt-BR">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+</programme>
+<programme start="20250314080000 +0000" stop="20250314113000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250314113000 +0000" stop="20250314123000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250314123000 +0000" stop="20250314130000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Ultrafarma</title>
+<desc lang="pt-BR">Confira a venda de remédios pela televisão promovida pela Ultrafarma.</desc>
+</programme>
+<programme start="20250314130000 +0000" stop="20250314143000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Você na TV</title>
+<desc lang="pt-BR">Um verdadeiro show de variedades marcado pela interatividade. De forma leve e bem humorada, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamentos e diversas dificuldades cotidianas.</desc>
+</programme>
+<programme start="20250314143000 +0000" stop="20250314160000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Fica com a Gente</title>
+<desc lang="pt-BR">Chef Edu Guedes prepara receitas práticas com a finalidade de entreter e ensinar os telespectadores.</desc>
+</programme>
+<programme start="20250314160000 +0000" stop="20250314180000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250314180000 +0000" stop="20250314200000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Tarde É Sua</title>
+<desc lang="pt-BR">Acompanhe as novidades do mundo das celebridades com comentários e trocas de ideias sobre as últimas notícias de comportamento, artes, política, saúde, economia e educação e reflexões dinâmicas sobre os assuntos do momento.</desc>
+</programme>
+<programme start="20250314200000 +0000" stop="20250314210000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250314210000 +0000" stop="20250314220000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250314220000 +0000" stop="20250314222000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Elas em Jogo</title>
+<desc lang="pt-BR">Todos os melhores momentos do futebol feminino, com muitas entrevistas e bate-papo com jogadoras.</desc>
+</programme>
+<programme start="20250314222000 +0000" stop="20250314233000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">RedeTV! News</title>
+<desc lang="pt-BR">Acompanhe os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+</programme>
+<programme start="20250314233000 +0000" stop="20250315003000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250315003000 +0000" stop="20250315014000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">TV Fama</title>
+<desc lang="pt-BR">Fique por dentro do que acontece no mundo das celebridades. As festas mais badaladas, os bastidores dos eventos exclusivos e as casas dos mais ricos e famosos.</desc>
+</programme>
+<programme start="20250315014000 +0000" stop="20250315034500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Operação de Risco</title>
+<desc lang="pt-BR">Fique por dentro de tudo o que acontece nas operações das polícias militar, civil e técnica do estado de São Paulo. Do princípio do crime até sua resolução, tudo é mostrado em tempo quase real.</desc>
+</programme>
+<programme start="20250315034500 +0000" stop="20250315043000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Leitura Dinâmica</title>
+<desc lang="pt-BR">Acompanhe a revista eletrônica que apresenta o que foi destaque no dia e o que será manchete amanhã. Os universos da moda, cultura e estilo também são contemplados.</desc>
+</programme>
+<programme start="20250315043000 +0000" stop="20250315060000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Madrugada Animada</title>
+<desc lang="pt-BR">João Kléber comanda uma atração cheia de humor, pegadinhas e esquetes divertidas.</desc>
+</programme>
+<programme start="20250315060000 +0000" stop="20250315080000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja da Graça no Seu Lar</title>
+<desc lang="pt-BR">Cultos realizados com ensinamentos bíblicos, louvor e adoração.</desc>
+</programme>
+<programme start="20250315080000 +0000" stop="20250315090000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250315090000 +0000" stop="20250315100000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250315100000 +0000" stop="20250315103000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250315103000 +0000" stop="20250315113000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250315113000 +0000" stop="20250315120000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Comunidade Zona Sul</title>
+<desc lang="pt-BR">Conheça o ministério de louvor da Comunidade Zona Sul.</desc>
+</programme>
+<programme start="20250315120000 +0000" stop="20250315123000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Vitória em Cristo</title>
+<desc lang="pt-BR">Acompanhe a palavra de Deus com o pastor Silas Malafaia.</desc>
+</programme>
+<programme start="20250315123000 +0000" stop="20250315130000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250315130000 +0000" stop="20250315133000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Voz de Deus</title>
+<desc lang="pt-BR">Acompanhe o culto de celebração e adoração a Deus.</desc>
+</programme>
+<programme start="20250315133000 +0000" stop="20250315140000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250315140000 +0000" stop="20250315150000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Universal do Reino de Deus</title>
+<desc lang="pt-BR">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250315150000 +0000" stop="20250315160000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Assembleia de Deus - Brás</title>
+<desc lang="pt-BR">Acompanhe a transmissão de um culto acolhedor, sob a direção de um pastor igualmente acolhedor. A Assembleia de Deus busca os dons espirituais ressaltando sempre a ordem nos cultos.</desc>
+</programme>
+<programme start="20250315160000 +0000" stop="20250315170000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250315170000 +0000" stop="20250315171500 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250315171500 +0000" stop="20250315193000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Campeonato Alemão</title>
+<desc lang="pt-BR">Acompanhe as partidas emocionantes do Campeonato Alemão de Futebol.</desc>
+</programme>
+<programme start="20250315193000 +0000" stop="20250315203000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250315203000 +0000" stop="20250315210000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Elas em Jogo</title>
+<desc lang="pt-BR">Todos os melhores momentos do futebol feminino, com muitas entrevistas e bate-papo com jogadoras.</desc>
+</programme>
+<programme start="20250315210000 +0000" stop="20250315213000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Festival de Prêmios</title>
+<desc lang="pt-BR">Acompanhe o sorteio de diversas premiações para o público.</desc>
+</programme>
+<programme start="20250315213000 +0000" stop="20250315222000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">A Hora do Zap</title>
+<desc lang="pt-BR">Acompanhe a exibição dos vídeos divertidos e engraçados da internet.</desc>
+</programme>
+<programme start="20250315222000 +0000" stop="20250315233000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">RedeTV! News</title>
+<desc lang="pt-BR">Acompanhe os principais acontecimentos do Brasil e do mundo, com correspondentes internacionais e os melhores comentaristas da imprensa brasileira.</desc>
+</programme>
+<programme start="20250315233000 +0000" stop="20250316003000 +0000" channel="RedeTV(Portuguese).br">
+<title lang="pt-BR">Igreja Internacional da Graça de Deus</title>
+<desc lang="pt-BR">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
+</programme>
+<programme start="20250312000500 +0000" stop="20250312010000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">A Caverna Encantada</title>
+<desc lang="pt-BR">O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.</desc>
+</programme>
+<programme start="20250312010000 +0000" stop="20250312012000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chapolin</title>
+<desc lang="pt-BR">O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamente ajuda.</desc>
+</programme>
+<programme start="20250312012000 +0000" stop="20250312022000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Programa do Ratinho</title>
+<desc lang="pt-BR">No quadro Gol Show, participação dos humoristas Rodrigo Cáceres e Geraldo Magela; convidados jogam o game Canhão; no Tanque do Ratinho, desafio é saber nome dos 10 artistas mostrados em fotos.</desc>
+</programme>
+<programme start="20250312022000 +0000" stop="20250312040000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">O Vencedor</title>
+<desc lang="pt-BR">Dicky Eklund teve seu auge ao enfrentar o campeão mundial Sugar Ray Leonard em uma luta de boxe, colocando a pequena cidade de Lowell no mapa. Até hoje ele vive desta fama, apesar de ter desperdiçado a carreira devido às drogas. Micky Ward, seu irmão, tenta agora a sorte no mundo do boxe. Sendo colocado sempre em segundo plano pela família em relação a Dicky, Micky começa a namorar Charlene Fleming, que o incentiva a deixar a influência familiar e tratar a carreira de forma mais profissional.</desc>
+</programme>
+<programme start="20250312040000 +0000" stop="20250312050000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">The Noite com Danilo Gentili</title>
+<desc lang="pt-BR">Programa recebe brasileiro que entrou para o Guinness Book por ser o homem a visitar mais rapidamente todos os 196 países do mundo. Robson Jesus conta histórias que viveu durante uma viagem de dois anos por todas as nações reconhecidas pela ONU.</desc>
+</programme>
+<programme start="20250312050000 +0000" stop="20250312053000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Operação Mesquita</title>
+<desc lang="pt-BR">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+</programme>
+<programme start="20250312053000 +0000" stop="20250312061500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT PodNight</title>
+<desc lang="pt-BR">Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.</desc>
+</programme>
+<programme start="20250312061500 +0000" stop="20250312080000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News</title>
+<desc lang="pt-BR">Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.</desc>
+</programme>
+<programme start="20250312080000 +0000" stop="20250312103000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News Manhã</title>
+<desc lang="pt-BR">As principais notícias do Brasil e do mundo sobre cultura, economia, política e tecnologia.</desc>
+</programme>
+<programme start="20250312103000 +0000" stop="20250312140000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Primeiro Impacto</title>
+<desc lang="pt-BR">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.</desc>
+</programme>
+<programme start="20250312140000 +0000" stop="20250312160000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Primeiro Impacto</title>
+<desc lang="pt-BR">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.</desc>
+</programme>
+<programme start="20250312160000 +0000" stop="20250312164500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Um Maluco no Pedaço</title>
+<desc lang="pt-BR">Will é um jovem irrequieto e esperto que sai de sua vizinhança barra-pesada na Filadélfia e vai morar com os tios ricos em Bel-Air, bairro nobre de Los Angeles. Na Califórnia, ele apronta muitas confusões e se diverte às custas dos primos esnobes.</desc>
+</programme>
+<programme start="20250312164500 +0000" stop="20250312173000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Quando me Apaixono</title>
+<desc lang="pt-BR">Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.</desc>
+</programme>
+<programme start="20250312173000 +0000" stop="20250312183000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Meu Caminho É te Amar</title>
+<desc lang="pt-BR">Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.</desc>
+</programme>
+<programme start="20250312183000 +0000" stop="20250312194500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Fofocalizando</title>
+<desc lang="pt-BR">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+</programme>
+<programme start="20250312194500 +0000" stop="20250312224500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Tá na Hora</title>
+<desc lang="pt-BR">Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.</desc>
+</programme>
+<programme start="20250312224500 +0000" stop="20250312234500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+</programme>
+<programme start="20250312234500 +0000" stop="20250313000500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chaves</title>
+<desc lang="pt-BR">Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71.</desc>
+</programme>
+<programme start="20250313000500 +0000" stop="20250313010000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">A Caverna Encantada</title>
+<desc lang="pt-BR">O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.</desc>
+</programme>
+<programme start="20250313010000 +0000" stop="20250313012000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chapolin</title>
+<desc lang="pt-BR">O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamente ajuda.</desc>
+</programme>
+<programme start="20250313012000 +0000" stop="20250313021500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Programa do Ratinho</title>
+<desc lang="pt-BR">Programa apresenta mais uma edição do Passa de Novo - DNA; no Rolê da Pavorô, Milene mostra história de garoto que cria "galinhas exóticas"; público se diverte com os quadros Brincando com o Ratinho, Desafiando o Maestro e Bexigão.</desc>
+</programme>
+<programme start="20250313021500 +0000" stop="20250313033000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Arena SBT</title>
+<desc lang="pt-BR">Debates quentes, com análises afiadas e irreverentes, sobre os principais acontecimentos do mundo do futebol, levando a emoção do jogo para fora das quatro linhas.</desc>
+</programme>
+<programme start="20250313033000 +0000" stop="20250313043000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">The Noite com Danilo Gentili</title>
+<desc lang="pt-BR">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</desc>
+</programme>
+<programme start="20250313043000 +0000" stop="20250313050000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Operação Mesquita</title>
+<desc lang="pt-BR">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+</programme>
+<programme start="20250313050000 +0000" stop="20250313054500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT PodNight</title>
+<desc lang="pt-BR">Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.</desc>
+</programme>
+<programme start="20250313054500 +0000" stop="20250313080000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News</title>
+<desc lang="pt-BR">Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.</desc>
+</programme>
+<programme start="20250313080000 +0000" stop="20250313103000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News Manhã</title>
+<desc lang="pt-BR">As principais notícias do Brasil e do mundo sobre cultura, economia, política e tecnologia.</desc>
+</programme>
+<programme start="20250313103000 +0000" stop="20250313140000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Primeiro Impacto</title>
+<desc lang="pt-BR">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.</desc>
+</programme>
+<programme start="20250313140000 +0000" stop="20250313160000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Primeiro Impacto</title>
+<desc lang="pt-BR">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.</desc>
+</programme>
+<programme start="20250313160000 +0000" stop="20250313164500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Um Maluco no Pedaço</title>
+<desc lang="pt-BR">Will é um jovem irrequieto e esperto que sai de sua vizinhança barra-pesada na Filadélfia e vai morar com os tios ricos em Bel-Air, bairro nobre de Los Angeles. Na Califórnia, ele apronta muitas confusões e se diverte às custas dos primos esnobes.</desc>
+</programme>
+<programme start="20250313164500 +0000" stop="20250313173000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Quando me Apaixono</title>
+<desc lang="pt-BR">Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.</desc>
+</programme>
+<programme start="20250313173000 +0000" stop="20250313183000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Meu Caminho É te Amar</title>
+<desc lang="pt-BR">Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.</desc>
+</programme>
+<programme start="20250313183000 +0000" stop="20250313194500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Fofocalizando</title>
+<desc lang="pt-BR">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+</programme>
+<programme start="20250313194500 +0000" stop="20250313224500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Tá na Hora</title>
+<desc lang="pt-BR">Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.</desc>
+</programme>
+<programme start="20250313224500 +0000" stop="20250313234500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+</programme>
+<programme start="20250313234500 +0000" stop="20250314000500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chaves</title>
+<desc lang="pt-BR">Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71.</desc>
+</programme>
+<programme start="20250314000500 +0000" stop="20250314010000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">A Caverna Encantada</title>
+<desc lang="pt-BR">O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.</desc>
+</programme>
+<programme start="20250314010000 +0000" stop="20250314012000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chapolin</title>
+<desc lang="pt-BR">O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamente ajuda.</desc>
+</programme>
+<programme start="20250314012000 +0000" stop="20250314022000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Programa do Ratinho</title>
+<desc lang="pt-BR">Programa apresenta mais uma edição do Jornal Rational, com os melhores momentos da internet, os calouros do Vem Quem Quer, esquetes de humor e muito mais.</desc>
+</programme>
+<programme start="20250314022000 +0000" stop="20250314034500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">A Praça É Nossa</title>
+<desc lang="pt-BR">Carlos Alberto de Nóbrega comanda a praça mais irreverente e, em seu famoso banco, recebe os mais divertidos humoristas.</desc>
+</programme>
+<programme start="20250314034500 +0000" stop="20250314044500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">The Noite com Danilo Gentili</title>
+<desc lang="pt-BR">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</desc>
+</programme>
+<programme start="20250314044500 +0000" stop="20250314051500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Operação Mesquita</title>
+<desc lang="pt-BR">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+</programme>
+<programme start="20250314051500 +0000" stop="20250314060000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT PodNight</title>
+<desc lang="pt-BR">Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.</desc>
+</programme>
+<programme start="20250314060000 +0000" stop="20250314080000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News</title>
+<desc lang="pt-BR">Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.</desc>
+</programme>
+<programme start="20250314080000 +0000" stop="20250314103000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News Manhã</title>
+<desc lang="pt-BR">As principais notícias do Brasil e do mundo sobre cultura, economia, política e tecnologia.</desc>
+</programme>
+<programme start="20250314103000 +0000" stop="20250314140000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Primeiro Impacto</title>
+<desc lang="pt-BR">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.</desc>
+</programme>
+<programme start="20250314140000 +0000" stop="20250314160000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Primeiro Impacto</title>
+<desc lang="pt-BR">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.</desc>
+</programme>
+<programme start="20250314160000 +0000" stop="20250314164500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Um Maluco no Pedaço</title>
+<desc lang="pt-BR">Will é um jovem irrequieto e esperto que sai de sua vizinhança barra-pesada na Filadélfia e vai morar com os tios ricos em Bel-Air, bairro nobre de Los Angeles. Na Califórnia, ele apronta muitas confusões e se diverte às custas dos primos esnobes.</desc>
+</programme>
+<programme start="20250314164500 +0000" stop="20250314173000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Quando me Apaixono</title>
+<desc lang="pt-BR">Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.</desc>
+</programme>
+<programme start="20250314173000 +0000" stop="20250314183000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Meu Caminho É te Amar</title>
+<desc lang="pt-BR">Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.</desc>
+</programme>
+<programme start="20250314183000 +0000" stop="20250314194500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Fofocalizando</title>
+<desc lang="pt-BR">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+</programme>
+<programme start="20250314194500 +0000" stop="20250314224500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Tá na Hora</title>
+<desc lang="pt-BR">Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.</desc>
+</programme>
+<programme start="20250314224500 +0000" stop="20250314234500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+</programme>
+<programme start="20250314234500 +0000" stop="20250315000500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chaves</title>
+<desc lang="pt-BR">Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71.</desc>
+</programme>
+<programme start="20250315000500 +0000" stop="20250315010000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">A Caverna Encantada</title>
+<desc lang="pt-BR">O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.</desc>
+</programme>
+<programme start="20250315010000 +0000" stop="20250315012000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chapolin</title>
+<desc lang="pt-BR">O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamente ajuda.</desc>
+</programme>
+<programme start="20250315012000 +0000" stop="20250315022000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Programa do Ratinho</title>
+<desc lang="pt-BR">Programa apresenta mais uma edição de America's Got Talent, além dos quadros Sextou com Ratinho, Histórias que o Povo Conta e Pergunta pro Ratinho.</desc>
+</programme>
+<programme start="20250315022000 +0000" stop="20250315040000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Fortaleza - O Olhar do Sniper</title>
+<desc lang="pt-BR">Semanas após o ataque mortífero ao Fortress Camp, Robert faz um resgate ousado para salvar Sasha, a viúva de seu antigo inimigo Balzary.</desc>
+</programme>
+<programme start="20250315040000 +0000" stop="20250315050000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">The Noite com Danilo Gentili</title>
+<desc lang="pt-BR">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</desc>
+</programme>
+<programme start="20250315050000 +0000" stop="20250315053000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Operação Mesquita</title>
+<desc lang="pt-BR">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+</programme>
+<programme start="20250315053000 +0000" stop="20250315061500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT PodNight</title>
+<desc lang="pt-BR">Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.</desc>
+</programme>
+<programme start="20250315061500 +0000" stop="20250315090000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT News</title>
+<desc lang="pt-BR">Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.</desc>
+</programme>
+<programme start="20250315090000 +0000" stop="20250315094500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Luccas Toon</title>
+<desc lang="pt-BR">Episódios mais divertidos da franquia Luccas Toon inspiram crianças e adultos a soltarem a imaginação e se aventurarem em um mundo cheio de histórias animadas e valiosos aprendizados.</desc>
+</programme>
+<programme start="20250315094500 +0000" stop="20250315143000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Sábado Animado</title>
+<desc lang="pt-BR">O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa.</desc>
+</programme>
+<programme start="20250315143000 +0000" stop="20250315150000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">A Pracinha</title>
+<desc lang="pt-BR">Marcelo de Nóbrega comanda uma homenagem aos 35 anos do programa "A Praça É Nossa". No banco da Pracinha, ele recebe comediantes mirins, que participam de diversos quadros e mostram todo o seu talento.</desc>
+</programme>
+<programme start="20250315150000 +0000" stop="20250315152000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Game Shakers</title>
+<desc lang="pt-BR">Babe e Kenzie criam um aplicativo e abrem uma empresa de jogos bem-sucedida. O astro rapper Double G ameaça processá-las por usarem uma de suas músicas e elas acabam contratando o filho dele com o consultor.</desc>
+</programme>
+<programme start="20250315152000 +0000" stop="20250315161500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Fuller House</title>
+<desc lang="pt-BR">Na família Tanner, DJ divide a casa com sua irmã Stephanie e a amiga Kimmy, que dão uma força com os seus três filhos.</desc>
+</programme>
+<programme start="20250315161500 +0000" stop="20250315170000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Chaves</title>
+<desc lang="pt-BR">Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71.</desc>
+</programme>
+<programme start="20250315170000 +0000" stop="20250315173000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Eita Lucas!</title>
+<desc lang="pt-BR">Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. Ele também bate um papo com celebridades em uma grande e divertida mistura.</desc>
+</programme>
+<programme start="20250315173000 +0000" stop="20250315190000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Bernie - O Golfinho</title>
+<desc lang="pt-BR">Irmãos fazem amizade com um golfinho que foi separado de sua família e descobrem um plano secreto que pode destruir a praia e a casa de seu novo amigo.</desc>
+</programme>
+<programme start="20250315190000 +0000" stop="20250315210000 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Os Renegados</title>
+<desc lang="pt-BR">O notório Richard Pace é atraído por um grupo peculiar de ladrões para um complexo roubo de ouro. O que começa como um simples assalto logo se transforma em um evento com o potencial de alterar drasticamente seu destino e o de incontáveis outros.</desc>
+</programme>
+<programme start="20250315210000 +0000" stop="20250315224500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Tá na Hora - Edição de Sábado</title>
+<desc lang="pt-BR">Prestação de serviço e as principais notícias do dia para informar o público. Colunistas abordam temas atuais e trazem a voz da população.</desc>
+</programme>
+<programme start="20250315224500 +0000" stop="20250315234500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">SBT Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+</programme>
+<programme start="20250315234500 +0000" stop="20250316011500 +0000" channel="SBT(Portuguese).br">
+<title lang="pt-BR">Esquadrão da Moda</title>
+<desc lang="pt-BR">Mulheres consideradas sem estilo ou que simplesmente se vestem de forma inadequada são indicadas por amigos e familiares para participar do programa. Então, uma equipe de especialistas ensina como se vestir bem e, principalmente, o que não usar.</desc>
+</programme>
+<programme start="20250312002000 +0000" stop="20250312012500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mania de Você</title>
+<desc lang="pt-BR">Molina manda Luma vigiar os passos de Mavi e Mércia; Mavi pede uma chance aos amigos de Viola para se redimir; Daniel fica arrasado ao ver Michele beijando Cristiano; Nahum diz para Mavi que Viola odeia o filho.</desc>
+</programme>
+<programme start="20250312012500 +0000" stop="20250312030000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Big Brother Brasil</title>
+<desc lang="pt-BR">Após votação do público, o décimo participante deixa o reality.</desc>
+</programme>
+<programme start="20250312030000 +0000" stop="20250312034000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Profissão Repórter</title>
+<desc lang="pt-BR">Maior festival religioso do mundo, Kumbh Mela, é retratado no programa, que também marca estreia do "Mochilão do Profissão Repórter", principal novidade da temporada.</desc>
+</programme>
+<programme start="20250312034000 +0000" stop="20250312043000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal da Globo</title>
+<desc lang="pt-BR">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+</programme>
+<programme start="20250312043000 +0000" stop="20250312051500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">O advogado explica para Osmar quando ele tomará posse dos bens de Violeta; Madalena sente ao saber que Jão vai comemorar com Silvia sua nova certidão; Ruth e Rodolfo se enfrentam; Gigi conversa com Marco sobre o que Gerson fez contra ele.</desc>
+</programme>
+<programme start="20250312051500 +0000" stop="20250312060500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vai que Cola</title>
+<desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+</programme>
+<programme start="20250312060500 +0000" stop="20250312070000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vai que Cola</title>
+<desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+</programme>
+<programme start="20250312070000 +0000" stop="20250312090000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Hora 1</title>
+<desc lang="pt-BR">Veja os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+</programme>
+<programme start="20250312090000 +0000" stop="20250312113000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Bom Dia PI</title>
+<desc lang="pt-BR">Acompanhe as últimas notícias de Teresina e de todo o estado do Piauí.</desc>
+</programme>
+<programme start="20250312113000 +0000" stop="20250312123000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Bom Dia Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+</programme>
+<programme start="20250312123000 +0000" stop="20250312133500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Encontro com Patrícia Poeta</title>
+<desc lang="pt-BR">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+</programme>
+<programme start="20250312133500 +0000" stop="20250312144500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mais Você</title>
+<desc lang="pt-BR">Com muito bom humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+</programme>
+<programme start="20250312144500 +0000" stop="20250312160000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI1</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250312160000 +0000" stop="20250312162500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Globo Esporte PI</title>
+<desc lang="pt-BR">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
+</programme>
+<programme start="20250312162500 +0000" stop="20250312174500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Hoje</title>
+<desc lang="pt-BR">Acompanhe as principais as notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+</programme>
+<programme start="20250312174500 +0000" stop="20250312181500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">História de Amor - Edição Especial</title>
+<desc lang="pt-BR">Helena e Carlos se apaixonam quando ele cuida da filha da mulher. Carlos é casado, apesar de viver um casamento tempestuoso.</desc>
+</programme>
+<programme start="20250312181500 +0000" stop="20250312185500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vale a Pena Ver de Novo - Tieta</title>
+<desc lang="pt-BR">A poderosa e destemida Tieta retorna à sua cidade natal depois de 25 anos para se vingar daqueles que lhe maltrataram.</desc>
+</programme>
+<programme start="20250312185500 +0000" stop="20250312210500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Supercopa do Brasil de Futebol Feminino</title>
+<desc lang="pt-BR">Pela semifinal, em jogo único, o São Paulo enfrenta o Flamengo no Estádio da Vila Belmiro, em Santos, SP. As Tricolores tentam chegar à decisão em sua primeira participação no torneio, enquanto as Rubro-Negras foram vice-campeãs da edição 2023.</desc>
+</programme>
+<programme start="20250312210500 +0000" stop="20250312214500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Garota do Momento</title>
+<desc lang="pt-BR">Onofre retira seu patrocínio da novela; Basílio e Beto se estranham; Beatriz deduz que foi Cássio quem furtou o colar de joias; Topete pede ajuda a Jacira para recuperar seu emprego na TV; Sérgio nega a solução de Bia e Cássio.</desc>
+</programme>
+<programme start="20250312214500 +0000" stop="20250312221500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI2</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250312221500 +0000" stop="20250312230000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">Silvia revela para Jão real motivo de querer terminar com ele; Ruth conta sua história para Marco; Tati se revolta com Violeta por ter se recusado a deixar Osmar devolver dinheiro para família; Sidney convida Jayme para ser padrinho do seu casamento.</desc>
+</programme>
+<programme start="20250312230000 +0000" stop="20250312234000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Nacional</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+</programme>
+<programme start="20250312234000 +0000" stop="20250313002000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mania de Você</title>
+<desc lang="pt-BR">Mavi não acredita que Molina está vivo; Sirlei alerta Berta para ter cuidado com Ísis; Luma propõe marcar um encontro com Molina para provar a Mavi que o pai está vivo; Nahum ameaça Mércia pelo sumiço de Iberê.</desc>
+</programme>
+<programme start="20250313002000 +0000" stop="20250313024500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Fluminense vs. Flamengo</title>
+<desc lang="pt-BR">Campeonato Carioca de Futebol</desc>
+</programme>
+<programme start="20250313024500 +0000" stop="20250313031000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Big Brother Brasil</title>
+<desc lang="pt-BR">Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário.</desc>
+</programme>
+<programme start="20250313031000 +0000" stop="20250313040000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal da Globo</title>
+<desc lang="pt-BR">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+</programme>
+<programme start="20250313040000 +0000" stop="20250313054000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Entre Facas e Segredos</title>
+<desc lang="pt-BR">Depois de fazer 85 anos, Harlan Thrombey, um famoso escritor de histórias policiais, é encontrado morto. Contratado para investigar o caso, o detetive Benoit Blanc descobre que, entre os funcionários misteriosos e a família conflituosa de Harlan, todos podem ser considerados suspeitos do crime.</desc>
+</programme>
+<programme start="20250313054000 +0000" stop="20250313062000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vai que Cola</title>
+<desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+</programme>
+<programme start="20250313062000 +0000" stop="20250313070000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vai que Cola</title>
+<desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+</programme>
+<programme start="20250313070000 +0000" stop="20250313090000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Hora 1</title>
+<desc lang="pt-BR">Veja os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+</programme>
+<programme start="20250313090000 +0000" stop="20250313113000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Bom Dia PI</title>
+<desc lang="pt-BR">Acompanhe as últimas notícias de Teresina e de todo o estado do Piauí.</desc>
+</programme>
+<programme start="20250313113000 +0000" stop="20250313123000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Bom Dia Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+</programme>
+<programme start="20250313123000 +0000" stop="20250313133500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Encontro com Patrícia Poeta</title>
+<desc lang="pt-BR">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+</programme>
+<programme start="20250313133500 +0000" stop="20250313144500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mais Você</title>
+<desc lang="pt-BR">Com muito bom humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+</programme>
+<programme start="20250313144500 +0000" stop="20250313160000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI1</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250313160000 +0000" stop="20250313162500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Globo Esporte PI</title>
+<desc lang="pt-BR">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
+</programme>
+<programme start="20250313162500 +0000" stop="20250313174500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Hoje</title>
+<desc lang="pt-BR">Acompanhe as principais as notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+</programme>
+<programme start="20250313174500 +0000" stop="20250313182500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">História de Amor - Edição Especial</title>
+<desc lang="pt-BR">Helena e Carlos se apaixonam quando ele cuida da filha da mulher. Carlos é casado, apesar de viver um casamento tempestuoso.</desc>
+</programme>
+<programme start="20250313182500 +0000" stop="20250313200500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">A Última Palavra</title>
+<desc lang="pt-BR">Harriet contrata uma jornalista para escrever seu obituário, mas não fica satisfeita e resolve partir em uma aventura para reescrever sua história de vida.</desc>
+</programme>
+<programme start="20250313200500 +0000" stop="20250313212500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vale a Pena Ver de Novo - Tieta</title>
+<desc lang="pt-BR">A poderosa e destemida Tieta retorna à sua cidade natal depois de 25 anos para se vingar daqueles que lhe maltrataram.</desc>
+</programme>
+<programme start="20250313212500 +0000" stop="20250313221000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Garota do Momento</title>
+<desc lang="pt-BR">Maristela garante a Cássio que resolverá a situação do roubo do colar; Anita e Alfredo oferecem um jantar para reunir Marlene e Raimundo; o delegado descobre sobre o depósito na conta bancária de Carmem; Teresa e Clarice questionam Lígia.</desc>
+</programme>
+<programme start="20250313221000 +0000" stop="20250313224000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI2</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250313224000 +0000" stop="20250313233000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">Madalena fica tocada com a revelação de Silvia; Tati percebe que Osmar esconde algo; Rosana tenta descobrir com quem Rique está se relacionando; Osmar pergunta quando Cacá contará para Jão que ele não é o pai do filho que ela espera.</desc>
+</programme>
+<programme start="20250313233000 +0000" stop="20250314002000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Nacional</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+</programme>
+<programme start="20250314002000 +0000" stop="20250314012500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mania de Você</title>
+<desc lang="pt-BR">Molina garante a Luma que deu dinheiro para Iberê deixar o país; Viola revela a Nahum que a reconciliação com Mavi é um plano para descobrir o assassino de Rudá; Berta se recorda da morte de Henrique e deduz que Guga matou o filho junto de Ísis.</desc>
+</programme>
+<programme start="20250314012500 +0000" stop="20250314024000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Big Brother Brasil</title>
+<desc lang="pt-BR">Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário.</desc>
+</programme>
+<programme start="20250314024000 +0000" stop="20250314032500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Lady Night</title>
+<desc lang="pt-BR">Tatá Werneck recebe artistas em seu talk show para um bate-papo nada comum com muitas brincadeiras e bom humor.</desc>
+</programme>
+<programme start="20250314032500 +0000" stop="20250314041500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal da Globo</title>
+<desc lang="pt-BR">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+</programme>
+<programme start="20250314041500 +0000" stop="20250314050000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">Madalena fica tocada com a revelação de Silvia; Tati percebe que Osmar esconde algo; Rosana tenta descobrir com quem Rique está se relacionando; Osmar pergunta quando Cacá contará para Jão que ele não é o pai do filho que ela espera.</desc>
+</programme>
+<programme start="20250314050000 +0000" stop="20250314054500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vai que Cola</title>
+<desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+</programme>
+<programme start="20250314054500 +0000" stop="20250314070000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Minha Família É Louca!</title>
+<desc lang="pt-BR">A família de Kostya sempre dá um jeito de assustar suas namoradas, mas ele se apaixona por Vika e tenta promover um encontro entre as duas famílias.</desc>
+</programme>
+<programme start="20250314070000 +0000" stop="20250314090000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Hora 1</title>
+<desc lang="pt-BR">Veja os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+</programme>
+<programme start="20250314090000 +0000" stop="20250314113000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Bom Dia PI</title>
+<desc lang="pt-BR">Acompanhe as últimas notícias de Teresina e de todo o estado do Piauí.</desc>
+</programme>
+<programme start="20250314113000 +0000" stop="20250314123000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Bom Dia Brasil</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+</programme>
+<programme start="20250314123000 +0000" stop="20250314133500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Encontro com Patrícia Poeta</title>
+<desc lang="pt-BR">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+</programme>
+<programme start="20250314133500 +0000" stop="20250314144500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mais Você</title>
+<desc lang="pt-BR">Com muito bom humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+</programme>
+<programme start="20250314144500 +0000" stop="20250314160000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI1</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250314160000 +0000" stop="20250314162500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Globo Esporte PI</title>
+<desc lang="pt-BR">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
+</programme>
+<programme start="20250314162500 +0000" stop="20250314174500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Hoje</title>
+<desc lang="pt-BR">Acompanhe as principais as notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+</programme>
+<programme start="20250314174500 +0000" stop="20250314182500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">História de Amor - Edição Especial</title>
+<desc lang="pt-BR">Helena e Carlos se apaixonam quando ele cuida da filha da mulher. Carlos é casado, apesar de viver um casamento tempestuoso.</desc>
+</programme>
+<programme start="20250314182500 +0000" stop="20250314200500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">X-Men - O Confronto Final</title>
+<desc lang="pt-BR">A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuarem com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.</desc>
+</programme>
+<programme start="20250314200500 +0000" stop="20250314212500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vale a Pena Ver de Novo - Tieta</title>
+<desc lang="pt-BR">A poderosa e destemida Tieta retorna à sua cidade natal depois de 25 anos para se vingar daqueles que lhe maltrataram.</desc>
+</programme>
+<programme start="20250314212500 +0000" stop="20250314221000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Garota do Momento</title>
+<desc lang="pt-BR">Beatriz é apoiada por sua família e amigos; Sérgio afirma a Alfredo que Beatriz precisa de um advogado; Topete vê Eugênia com Reginaldo e se incomoda; Glorinha convida Beatriz para trabalhar em seu salão; Raimundo demite Bia da agência.</desc>
+</programme>
+<programme start="20250314221000 +0000" stop="20250314224000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI2</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250314224000 +0000" stop="20250314233000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">Osmar faz o pedido de transferência do valor que deve a Doralice; Marco garante a Violeta que Osmar não a ama; Tati expulsa Hana de sua casa, e ela se vangloria para Min-Ji; Edson percebe o encantamento de Alberto ao falar de Doralice.</desc>
+</programme>
+<programme start="20250314233000 +0000" stop="20250315002000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Nacional</title>
+<desc lang="pt-BR">Acompanhe as principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+</programme>
+<programme start="20250315002000 +0000" stop="20250315012500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Mania de Você</title>
+<desc lang="pt-BR">Mércia nega a Mavi que Molina esteja vivo; Berta faz uma proposta a Leidi; Luma pressente que ela e Mavi podem estar na mira de Molina; Molina ordena que seus capangas levem Mércia para ficar aos cuidados de Maureta.</desc>
+</programme>
+<programme start="20250315012500 +0000" stop="20250315021500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Big Brother Brasil</title>
+<desc lang="pt-BR">Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário.</desc>
+</programme>
+<programme start="20250315021500 +0000" stop="20250315030500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Globo Repórter</title>
+<desc lang="pt-BR">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250315030500 +0000" stop="20250315035500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal da Globo</title>
+<desc lang="pt-BR">O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
+</programme>
+<programme start="20250315035500 +0000" stop="20250315044000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">Osmar faz o pedido de transferência do valor que deve a Doralice; Marco garante a Violeta que Osmar não a ama; Tati expulsa Hana de sua casa, e ela se vangloria para Min-Ji; Edson percebe o encantamento de Alberto ao falar de Doralice.</desc>
+</programme>
+<programme start="20250315044000 +0000" stop="20250315052500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Vai que Cola</title>
+<desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+</programme>
+<programme start="20250315052500 +0000" stop="20250315090000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jack, o Caçador de Gigantes</title>
+<desc lang="pt-BR">Jack é um pobre fazendeiro que abre um portal entre o mundo real e o universo de uma terrível raça de gigantes, desencadeando uma guerra. A situação obriga Jack a lutar para deter os gigantes e salvar a raça humana.</desc>
+</programme>
+<programme start="20250315090000 +0000" stop="20250315095000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Globo Repórter</title>
+<desc lang="pt-BR">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250315095000 +0000" stop="20250315144500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">É de Casa</title>
+<desc lang="pt-BR">A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.</desc>
+</programme>
+<programme start="20250315144500 +0000" stop="20250315160000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI1</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250315160000 +0000" stop="20250315162500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Globo Esporte PI</title>
+<desc lang="pt-BR">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
+</programme>
+<programme start="20250315162500 +0000" stop="20250315171000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Hoje</title>
+<desc lang="pt-BR">Acompanhe as principais as notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+</programme>
+<programme start="20250315171000 +0000" stop="20250315174000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">História de Amor - Edição Especial</title>
+<desc lang="pt-BR">Helena e Carlos se apaixonam quando ele cuida da filha da mulher. Carlos é casado, apesar de viver um casamento tempestuoso.</desc>
+</programme>
+<programme start="20250315174000 +0000" stop="20250315191500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Piauí de Riquezas</title>
+<desc lang="pt-BR">Conheça as belezas do estado e as histórias de seu povo e de sua rica cultura em sons e sabores.</desc>
+</programme>
+<programme start="20250315191500 +0000" stop="20250315214000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Caldeirão com Mion</title>
+<desc lang="pt-BR">Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.</desc>
+</programme>
+<programme start="20250315214000 +0000" stop="20250315222500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Garota do Momento</title>
+<desc lang="pt-BR">Beatriz torna-se garota-propaganda em uma fábricas de sabonetes do país, o que revoluciona a publicidade dos anos 1950. Criada pela avó paterna, ela decide embarcar para o Rio de Janeiro ao se deparar com uma foto de sua mãe em uma revista.</desc>
+</programme>
+<programme start="20250315222500 +0000" stop="20250315224500 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">PI2</title>
+<desc lang="pt-BR">Acompanhe denúncias, investigação, problemas das comunidades, defesa do consumidor, saúde, educação, economia doméstica, política, cultura e previsão do tempo no Piauí.</desc>
+</programme>
+<programme start="20250315224500 +0000" stop="20250315233000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Volta por Cima</title>
+<desc lang="pt-BR">Madalena vislumbra no empreendedorismo um caminho para um futuro próspero. Jão almeja um cargo melhor em uma empresa. Ambos se aproximam em função de uma fatalidade que muda para sempre a vida da família de Madalena.</desc>
+</programme>
+<programme start="20250315233000 +0000" stop="20250316002000 +0000" channel="TVAlvoradadoSul(Portuguese).br">
+<title lang="pt-BR">Jornal Nacional</title>
+<desc lang="pt-BR">O principal telejornal brasileiro, "Jornal Nacional", traz as principais notícias do Brasil e do mundo. Exibido no horário noturno, de segunda-feira a sábado, estão em sua pauta atualidades, matérias de denúncia e investigação, séries especiais, os fatos mais importantes do dia e os acontecimentos que terão repercussão no dia seguinte. Após chegar à final do Emmy Internacional sete vezes em nove anos, em 2011 o "Jornal Nacional" ganha o primeiro prêmio na categoria "notícia" pela cobertura da expulsão dos traficantes e a ocupação policial do Complexo do Alemão, no Rio de Janeiro, em novembro de 2010.</desc>
+</programme>
+<programme start="20250312000000 +0000" stop="20250312004500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Força de Mulher</title>
+<desc lang="pt-BR">Bahar é uma jovem viúva que trabalha incansavelmente para dar uma vida melhor aos seus filhos. Ela precisa enfrentar seus fantasmas do passado e transformar a dor em força para seguir adiante e encontrar o amor.</desc>
+</programme>
+<programme start="20250312004500 +0000" stop="20250312013000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Gênesis</title>
+<desc lang="pt-BR">A história de grandes eventos dos primeiros 2300 anos da humanidade. A criação do mundo, Adão e Eva, o grande dilúvio, a Torre de Babel e a jornada de Abraão, chegando até o período de escravidão do povo hebreu no Egito.</desc>
+</programme>
+<programme start="20250312013000 +0000" stop="20250312024500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Reis</title>
+<desc lang="pt-BR">A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</desc>
+</programme>
+<programme start="20250312024500 +0000" stop="20250312034000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Iris - Organização Secreta Coreana</title>
+<desc lang="pt-BR">A vida de dois amigos muda para sempre após serem recrutados por uma organização ultrassecreta. Eles têm a dura missão de proteger o país contra ameaças estrangeiras.</desc>
+</programme>
+<programme start="20250312034000 +0000" stop="20250312034500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250312034500 +0000" stop="20250312091000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Programação IURD</title>
+<desc lang="pt-BR">Programas da Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250312091000 +0000" stop="20250312100000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI Manhã</title>
+<desc lang="pt-BR">Veja as principais notícias da região e se mantenha bem informado nas primeiras horas da manhã.</desc>
+</programme>
+<programme start="20250312100000 +0000" stop="20250312100300 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral Manhã</title>
+<desc lang="pt-BR">O programa apresenta reportagens exclusivas, denúncias e prestação de serviços.</desc>
+</programme>
+<programme start="20250312100300 +0000" stop="20250312110000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI Manhã</title>
+<desc lang="pt-BR">Veja as principais notícias da região e se mantenha bem informado nas primeiras horas da manhã.</desc>
+</programme>
+<programme start="20250312110000 +0000" stop="20250312114000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Bom Demais</title>
+<desc lang="pt-BR">Veja as novidades do mundo do entretenimento e da moda, além de pautas culturais.</desc>
+</programme>
+<programme start="20250312114000 +0000" stop="20250312130000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Fala Brasil</title>
+<desc lang="pt-BR">Com credibilidade e dinamismo, o telejornal busca trazer em primeira mão as notícias do dia.</desc>
+</programme>
+<programme start="20250312130000 +0000" stop="20250312145000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Hoje em Dia</title>
+<desc lang="pt-BR">Notícias, prestação de serviço e entretenimento na medida certa são o mote do programa, concebido a partir do mais nobre compromisso da comunicação: informar e formar a opinião pública, sem perder de vista a opção de lazer.</desc>
+</programme>
+<programme start="20250312145000 +0000" stop="20250312170000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI</title>
+<desc lang="pt-BR">O programa transita entre o jornalismo e o entretenimento, com reportagens exclusivas, denúncias, prestação de serviços, saúde e segurança pública.</desc>
+</programme>
+<programme start="20250312170000 +0000" stop="20250312183000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Bancada Piauí</title>
+<desc lang="pt-BR">Bastidores da política nacional e piauiense com entrevistas e debates.</desc>
+</programme>
+<programme start="20250312183000 +0000" stop="20250312193000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">O Rico e Lázaro</title>
+<desc lang="pt-BR">Daniel e os sábios hebreus se casam nos Jardins Suspensos; Malca participa da cerimônia e se encanta por Zac.</desc>
+</programme>
+<programme start="20250312193000 +0000" stop="20250312201000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250312201000 +0000" stop="20250312201500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250312201500 +0000" stop="20250312204000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250312204000 +0000" stop="20250312204500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250312204500 +0000" stop="20250312210000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250312210000 +0000" stop="20250312221500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta Piauí</title>
+<desc lang="pt-BR">Acompanhe as principais notícias policiais do estado do Piauí. O programa também presta serviços à comunidade local.</desc>
+</programme>
+<programme start="20250312221500 +0000" stop="20250312225500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Conversa Franca</title>
+<desc lang="pt-BR">Acompanhe entrevistas com foco em política.</desc>
+</programme>
+<programme start="20250312225500 +0000" stop="20250312234500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record</title>
+<desc lang="pt-BR">Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+</programme>
+<programme start="20250312234500 +0000" stop="20250313004500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Força de Mulher</title>
+<desc lang="pt-BR">Bahar é uma jovem viúva que trabalha incansavelmente para dar uma vida melhor aos seus filhos. Ela precisa enfrentar seus fantasmas do passado e transformar a dor em força para seguir adiante e encontrar o amor.</desc>
+</programme>
+<programme start="20250313004500 +0000" stop="20250313013000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Gênesis</title>
+<desc lang="pt-BR">A história de grandes eventos dos primeiros 2300 anos da humanidade. A criação do mundo, Adão e Eva, o grande dilúvio, a Torre de Babel e a jornada de Abraão, chegando até o período de escravidão do povo hebreu no Egito.</desc>
+</programme>
+<programme start="20250313013000 +0000" stop="20250313023000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Reis</title>
+<desc lang="pt-BR">A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</desc>
+</programme>
+<programme start="20250313023000 +0000" stop="20250313034000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Iris - Organização Secreta Coreana</title>
+<desc lang="pt-BR">A vida de dois amigos muda para sempre após serem recrutados por uma organização ultrassecreta. Eles têm a dura missão de proteger o país contra ameaças estrangeiras.</desc>
+</programme>
+<programme start="20250313034000 +0000" stop="20250313034500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250313034500 +0000" stop="20250313091000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Programação IURD</title>
+<desc lang="pt-BR">Programas da Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250313091000 +0000" stop="20250313100000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI Manhã</title>
+<desc lang="pt-BR">Veja as principais notícias da região e se mantenha bem informado nas primeiras horas da manhã.</desc>
+</programme>
+<programme start="20250313100000 +0000" stop="20250313100300 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250313100300 +0000" stop="20250313110000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI Manhã</title>
+<desc lang="pt-BR">Veja as principais notícias da região e se mantenha bem informado nas primeiras horas da manhã.</desc>
+</programme>
+<programme start="20250313110000 +0000" stop="20250313114000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Bom Demais</title>
+<desc lang="pt-BR">Veja as novidades do mundo do entretenimento e da moda, além de pautas culturais.</desc>
+</programme>
+<programme start="20250313114000 +0000" stop="20250313130000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Fala Brasil</title>
+<desc lang="pt-BR">Com credibilidade e dinamismo, o telejornal busca trazer em primeira mão as notícias do dia.</desc>
+</programme>
+<programme start="20250313130000 +0000" stop="20250313145000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Hoje em Dia</title>
+<desc lang="pt-BR">Notícias, prestação de serviço e entretenimento na medida certa são o mote do programa, concebido a partir do mais nobre compromisso da comunicação: informar e formar a opinião pública, sem perder de vista a opção de lazer.</desc>
+</programme>
+<programme start="20250313145000 +0000" stop="20250313170000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI</title>
+<desc lang="pt-BR">O programa transita entre o jornalismo e o entretenimento, com reportagens exclusivas, denúncias, prestação de serviços, saúde e segurança pública.</desc>
+</programme>
+<programme start="20250313170000 +0000" stop="20250313183000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Bancada Piauí</title>
+<desc lang="pt-BR">Bastidores da política nacional e piauiense com entrevistas e debates.</desc>
+</programme>
+<programme start="20250313183000 +0000" stop="20250313193000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">O Rico e Lázaro</title>
+<desc lang="pt-BR">Nitócris exige que Sammu-Ramat faça Shamiran perder o bebê; sacerdotisa fala para Nebuzaradã que deseja ter filhos.</desc>
+</programme>
+<programme start="20250313193000 +0000" stop="20250313201000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250313201000 +0000" stop="20250313201500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250313201500 +0000" stop="20250313204000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250313204000 +0000" stop="20250313204500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250313204500 +0000" stop="20250313210000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250313210000 +0000" stop="20250313221500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta Piauí</title>
+<desc lang="pt-BR">Acompanhe as principais notícias policiais do estado do Piauí. O programa também presta serviços à comunidade local.</desc>
+</programme>
+<programme start="20250313221500 +0000" stop="20250313225500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Conversa Franca</title>
+<desc lang="pt-BR">Acompanhe entrevistas com foco em política.</desc>
+</programme>
+<programme start="20250313225500 +0000" stop="20250314000000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record</title>
+<desc lang="pt-BR">Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+</programme>
+<programme start="20250314000000 +0000" stop="20250314004500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Força de Mulher</title>
+<desc lang="pt-BR">Bahar é uma jovem viúva que trabalha incansavelmente para dar uma vida melhor aos seus filhos. Ela precisa enfrentar seus fantasmas do passado e transformar a dor em força para seguir adiante e encontrar o amor.</desc>
+</programme>
+<programme start="20250314004500 +0000" stop="20250314013000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Gênesis</title>
+<desc lang="pt-BR">A história de grandes eventos dos primeiros 2300 anos da humanidade. A criação do mundo, Adão e Eva, o grande dilúvio, a Torre de Babel e a jornada de Abraão, chegando até o período de escravidão do povo hebreu no Egito.</desc>
+</programme>
+<programme start="20250314013000 +0000" stop="20250314024500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Reis</title>
+<desc lang="pt-BR">A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</desc>
+</programme>
+<programme start="20250314024500 +0000" stop="20250314034000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Iris - Organização Secreta Coreana</title>
+<desc lang="pt-BR">A vida de dois amigos muda para sempre após serem recrutados por uma organização ultrassecreta. Eles têm a dura missão de proteger o país contra ameaças estrangeiras.</desc>
+</programme>
+<programme start="20250314034000 +0000" stop="20250314034500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250314034500 +0000" stop="20250314091000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Programação IURD</title>
+<desc lang="pt-BR">Programas da Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250314091000 +0000" stop="20250314100000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI Manhã</title>
+<desc lang="pt-BR">Veja as principais notícias da região e se mantenha bem informado nas primeiras horas da manhã.</desc>
+</programme>
+<programme start="20250314100000 +0000" stop="20250314100300 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250314100300 +0000" stop="20250314110000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI Manhã</title>
+<desc lang="pt-BR">Veja as principais notícias da região e se mantenha bem informado nas primeiras horas da manhã.</desc>
+</programme>
+<programme start="20250314110000 +0000" stop="20250314114000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Bom Demais</title>
+<desc lang="pt-BR">Veja as novidades do mundo do entretenimento e da moda, além de pautas culturais.</desc>
+</programme>
+<programme start="20250314114000 +0000" stop="20250314130000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Fala Brasil</title>
+<desc lang="pt-BR">Com credibilidade e dinamismo, o telejornal busca trazer em primeira mão as notícias do dia.</desc>
+</programme>
+<programme start="20250314130000 +0000" stop="20250314145000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Hoje em Dia</title>
+<desc lang="pt-BR">Notícias, prestação de serviço e entretenimento na medida certa são o mote do programa, concebido a partir do mais nobre compromisso da comunicação: informar e formar a opinião pública, sem perder de vista a opção de lazer.</desc>
+</programme>
+<programme start="20250314145000 +0000" stop="20250314170000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Balanço Geral PI</title>
+<desc lang="pt-BR">O programa transita entre o jornalismo e o entretenimento, com reportagens exclusivas, denúncias, prestação de serviços, saúde e segurança pública.</desc>
+</programme>
+<programme start="20250314170000 +0000" stop="20250314183000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Bancada Piauí</title>
+<desc lang="pt-BR">Bastidores da política nacional e piauiense com entrevistas e debates.</desc>
+</programme>
+<programme start="20250314183000 +0000" stop="20250314193000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">O Rico e Lázaro</title>
+<desc lang="pt-BR">Amitis critica o comportamento do rei; Gadise se desaponta com a frieza de Matias.</desc>
+</programme>
+<programme start="20250314193000 +0000" stop="20250314201000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250314201000 +0000" stop="20250314201500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250314201500 +0000" stop="20250314204000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250314204000 +0000" stop="20250314204500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250314204500 +0000" stop="20250314210000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta</title>
+<desc lang="pt-BR">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250314210000 +0000" stop="20250314221500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta Piauí</title>
+<desc lang="pt-BR">Acompanhe as principais notícias policiais do estado do Piauí. O programa também presta serviços à comunidade local.</desc>
+</programme>
+<programme start="20250314221500 +0000" stop="20250314225500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Conversa Franca</title>
+<desc lang="pt-BR">Acompanhe entrevistas com foco em política.</desc>
+</programme>
+<programme start="20250314225500 +0000" stop="20250315000000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record</title>
+<desc lang="pt-BR">Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+</programme>
+<programme start="20250315000000 +0000" stop="20250315004500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Força de Mulher</title>
+<desc lang="pt-BR">Bahar é uma jovem viúva que trabalha incansavelmente para dar uma vida melhor aos seus filhos. Ela precisa enfrentar seus fantasmas do passado e transformar a dor em força para seguir adiante e encontrar o amor.</desc>
+</programme>
+<programme start="20250315004500 +0000" stop="20250315013000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Gênesis</title>
+<desc lang="pt-BR">A história de grandes eventos dos primeiros 2300 anos da humanidade. A criação do mundo, Adão e Eva, o grande dilúvio, a Torre de Babel e a jornada de Abraão, chegando até o período de escravidão do povo hebreu no Egito.</desc>
+</programme>
+<programme start="20250315013000 +0000" stop="20250315024500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Reis</title>
+<desc lang="pt-BR">A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</desc>
+</programme>
+<programme start="20250315024500 +0000" stop="20250315034000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Iris - Organização Secreta Coreana</title>
+<desc lang="pt-BR">A vida de dois amigos muda para sempre após serem recrutados por uma organização ultrassecreta. Eles têm a dura missão de proteger o país contra ameaças estrangeiras.</desc>
+</programme>
+<programme start="20250315034000 +0000" stop="20250315034500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - 24h</title>
+<desc lang="pt-BR">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+</programme>
+<programme start="20250315034500 +0000" stop="20250315090000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Programação IURD</title>
+<desc lang="pt-BR">Programas da Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250315090000 +0000" stop="20250315100000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Programação IURD</title>
+<desc lang="pt-BR">Programas da Igreja Universal do Reino de Deus.</desc>
+</programme>
+<programme start="20250315100000 +0000" stop="20250315103500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Brasil Caminhoneiro</title>
+<desc lang="pt-BR">Acompanhe reportagens, prestação de serviço e entretenimento aos profissionais da estrada.</desc>
+</programme>
+<programme start="20250315103500 +0000" stop="20250315150000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Fala Brasil - Edição de Sábado</title>
+<desc lang="pt-BR">Confira as principais notícias da semana, antecipando os fatos que podem mobilizar os brasileiros.</desc>
+</programme>
+<programme start="20250315150000 +0000" stop="20250315163000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Fala Piauí</title>
+<desc lang="pt-BR">Prestação de serviço, reportagens especiais, links dos municípios e muito mais.</desc>
+</programme>
+<programme start="20250315163000 +0000" stop="20250315180000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Antenados</title>
+<desc lang="pt-BR">Muito entretenimento, cultura, música, games, cinema, shows, e tudo que está bombando na web.</desc>
+</programme>
+<programme start="20250315180000 +0000" stop="20250315200000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">A Hora do Desespero</title>
+<desc lang="pt-BR">Amy Carr sai para o que devia ter sido uma corrida matinal restauradora, quando uma amiga liga com notícias terríveis: a escola local que o filho de Noah frequenta foi sitiada por um atirador.</desc>
+</programme>
+<programme start="20250315200000 +0000" stop="20250315224500 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Cidade Alerta - Edição de Sábado</title>
+<desc lang="pt-BR">Programa jornalístico que oferece ao público uma visão diferente da notícia habitual.</desc>
+</programme>
+<programme start="20250315224500 +0000" stop="20250316000000 +0000" channel="TVAntena10(Portuguese).br">
+<title lang="pt-BR">Jornal da Record - Edição de Sábado</title>
+<desc lang="pt-BR">Confira as últimas notícias do dia e veja reportagens especiais sobre os mais variados assuntos.</desc>
+</programme>
+<programme start="20250312002500 +0000" stop="20250312003000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312003000 +0000" stop="20250312012500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa da Gente</title>
+<desc lang="pt-BR">Laerte Lannes traz as principais notícias políticas e policiais do Mato Grosso e do Brasil.</desc>
+</programme>
+<programme start="20250312012500 +0000" stop="20250312013000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312013000 +0000" stop="20250312020000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250312020000 +0000" stop="20250312030000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidadão Consumidor</title>
+<desc lang="pt-BR">Acompanhe as conversas com especialistas sobre os assuntos de interesse do cidadão consumidor.</desc>
+</programme>
+<programme start="20250312030000 +0000" stop="20250312031500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250312031500 +0000" stop="20250312041500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Boa Noite Elias Neto</title>
+<desc lang="pt-BR">Elias Neto entrevista convidados, aborda os mais variados assuntos de interesse social. E os espectadores tem a oportunidade de interagir e participar.</desc>
+</programme>
+<programme start="20250312041500 +0000" stop="20250312044500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250312044500 +0000" stop="20250312050000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250312050000 +0000" stop="20250312053000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Treino Aberto</title>
+<desc lang="pt-BR">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+</programme>
+<programme start="20250312053000 +0000" stop="20250312063000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250312063000 +0000" stop="20250312063500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312063500 +0000" stop="20250312082500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidade Kids</title>
+<desc lang="pt-BR">A faixa de horário exibe programas voltados para o público infantil.</desc>
+</programme>
+<programme start="20250312082500 +0000" stop="20250312090000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312090000 +0000" stop="20250312105500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa do Pop</title>
+<desc lang="pt-BR">Descontração, informação, bom humor, curiosidades, música, diversão, cultura e muita emoção.</desc>
+</programme>
+<programme start="20250312105500 +0000" stop="20250312110000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312110000 +0000" stop="20250312122500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Jornal Cidade Verde</title>
+<desc lang="pt-BR">Acompanhe os principais assuntos do dia e as últimas notícias em reportagens especiais.</desc>
+</programme>
+<programme start="20250312122500 +0000" stop="20250312123000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312123000 +0000" stop="20250312140000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Manhã com Sabor</title>
+<desc lang="pt-BR">Entretenimento, variedades, dicas e o irresistível aroma da culinária.</desc>
+</programme>
+<programme start="20250312140000 +0000" stop="20250312143000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Treino Aberto</title>
+<desc lang="pt-BR">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+</programme>
+<programme start="20250312143000 +0000" stop="20250312172500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa do Pop</title>
+<desc lang="pt-BR">Descontração, informação, bom humor, curiosidades, música, diversão, cultura e muita emoção.</desc>
+</programme>
+<programme start="20250312172500 +0000" stop="20250312173000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312173000 +0000" stop="20250312180000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250312180000 +0000" stop="20250312183000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250312183000 +0000" stop="20250312193000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">É Desse Jeito</title>
+<desc lang="pt-BR">Caio Cordeiro dá voz à comunidade cristã de Cuiabá e região.</desc>
+</programme>
+<programme start="20250312193000 +0000" stop="20250312200000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250312200000 +0000" stop="20250312204000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Pregação Pastora Talitha Pereira</title>
+<desc lang="pt-BR">Acompanhe a pregação da palavra de Deus e com a pastora e encorajadora feminina Talitha Pereira.</desc>
+</programme>
+<programme start="20250312204000 +0000" stop="20250312204500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312204500 +0000" stop="20250312211500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250312211500 +0000" stop="20250312213000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Canal dos Clubes</title>
+<desc lang="pt-BR">Acompanhe o resumo do que rola nos campeonatos antes, durante e depois das partidas.</desc>
+</programme>
+<programme start="20250312213000 +0000" stop="20250312215500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250312215500 +0000" stop="20250312220000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312220000 +0000" stop="20250312225500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Boa Noite Elias Neto</title>
+<desc lang="pt-BR">Elias Neto entrevista convidados, aborda os mais variados assuntos de interesse social. E os espectadores tem a oportunidade de interagir e participar.</desc>
+</programme>
+<programme start="20250312225500 +0000" stop="20250312230000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250312230000 +0000" stop="20250313002500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Passando a Limpo</title>
+<desc lang="pt-BR">Programa com forte foco na cobertura política de Mato Grosso, com interação da população e entrevistas com personalidades do estado, com o intuito de levar o que foi fato durante o dia.</desc>
+</programme>
+<programme start="20250313002500 +0000" stop="20250313003000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313003000 +0000" stop="20250313012500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa da Gente</title>
+<desc lang="pt-BR">Laerte Lannes traz as principais notícias políticas e policiais do Mato Grosso e do Brasil.</desc>
+</programme>
+<programme start="20250313012500 +0000" stop="20250313013000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313013000 +0000" stop="20250313020000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250313020000 +0000" stop="20250313030000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidadão Consumidor</title>
+<desc lang="pt-BR">Acompanhe as conversas com especialistas sobre os assuntos de interesse do cidadão consumidor.</desc>
+</programme>
+<programme start="20250313030000 +0000" stop="20250313031500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250313031500 +0000" stop="20250313041500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Boa Noite Elias Neto</title>
+<desc lang="pt-BR">Elias Neto entrevista convidados, aborda os mais variados assuntos de interesse social. E os espectadores tem a oportunidade de interagir e participar.</desc>
+</programme>
+<programme start="20250313041500 +0000" stop="20250313044500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250313044500 +0000" stop="20250313050000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250313050000 +0000" stop="20250313053000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Treino Aberto</title>
+<desc lang="pt-BR">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+</programme>
+<programme start="20250313053000 +0000" stop="20250313063000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250313063000 +0000" stop="20250313063500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313063500 +0000" stop="20250313082500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidade Kids</title>
+<desc lang="pt-BR">A faixa de horário exibe programas voltados para o público infantil.</desc>
+</programme>
+<programme start="20250313082500 +0000" stop="20250313110000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa do Pop</title>
+<desc lang="pt-BR">Descontração, informação, bom humor, curiosidades, música, diversão, cultura e muita emoção.</desc>
+</programme>
+<programme start="20250313110000 +0000" stop="20250313122500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Jornal Cidade Verde</title>
+<desc lang="pt-BR">Acompanhe os principais assuntos do dia e as últimas notícias em reportagens especiais.</desc>
+</programme>
+<programme start="20250313122500 +0000" stop="20250313123000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313123000 +0000" stop="20250313135500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Manhã com Sabor</title>
+<desc lang="pt-BR">Entretenimento, variedades, dicas e o irresistível aroma da culinária.</desc>
+</programme>
+<programme start="20250313135500 +0000" stop="20250313140000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313140000 +0000" stop="20250313143000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Treino Aberto</title>
+<desc lang="pt-BR">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+</programme>
+<programme start="20250313143000 +0000" stop="20250313172500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa do Pop</title>
+<desc lang="pt-BR">Descontração, informação, bom humor, curiosidades, música, diversão, cultura e muita emoção.</desc>
+</programme>
+<programme start="20250313172500 +0000" stop="20250313173000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313173000 +0000" stop="20250313174500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250313174500 +0000" stop="20250313180000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250313180000 +0000" stop="20250313183000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250313183000 +0000" stop="20250313184500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250313184500 +0000" stop="20250313194500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Nossa República</title>
+<desc lang="pt-BR">O jornalista Mauro Camargo apresenta as mais relevantes notícias sobre o Brasil.</desc>
+</programme>
+<programme start="20250313194500 +0000" stop="20250313204000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Pregação Pastora Talitha Pereira</title>
+<desc lang="pt-BR">Acompanhe a pregação da palavra de Deus e com a pastora e encorajadora feminina Talitha Pereira.</desc>
+</programme>
+<programme start="20250313204000 +0000" stop="20250313204500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313204500 +0000" stop="20250313211500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250313211500 +0000" stop="20250313213000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Canal dos Clubes</title>
+<desc lang="pt-BR">Acompanhe o resumo do que rola nos campeonatos antes, durante e depois das partidas.</desc>
+</programme>
+<programme start="20250313213000 +0000" stop="20250313215500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250313215500 +0000" stop="20250313220000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313220000 +0000" stop="20250313225500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Estúdio</title>
+<desc lang="pt-BR">Fique por dentro das notícias mais recentes e acompanhe análises dos últimos acontecimentos.</desc>
+</programme>
+<programme start="20250313225500 +0000" stop="20250313230000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250313230000 +0000" stop="20250314002500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Passando a Limpo</title>
+<desc lang="pt-BR">Programa com forte foco na cobertura política de Mato Grosso, com interação da população e entrevistas com personalidades do estado, com o intuito de levar o que foi fato durante o dia.</desc>
+</programme>
+<programme start="20250314002500 +0000" stop="20250314003000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314003000 +0000" stop="20250314012500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa da Gente</title>
+<desc lang="pt-BR">Laerte Lannes traz as principais notícias políticas e policiais do Mato Grosso e do Brasil.</desc>
+</programme>
+<programme start="20250314012500 +0000" stop="20250314013000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314013000 +0000" stop="20250314020000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250314020000 +0000" stop="20250314030000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidadão Consumidor</title>
+<desc lang="pt-BR">Acompanhe as conversas com especialistas sobre os assuntos de interesse do cidadão consumidor.</desc>
+</programme>
+<programme start="20250314030000 +0000" stop="20250314031500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250314031500 +0000" stop="20250314041500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Estúdio</title>
+<desc lang="pt-BR">Fique por dentro das notícias mais recentes e acompanhe análises dos últimos acontecimentos.</desc>
+</programme>
+<programme start="20250314041500 +0000" stop="20250314044500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250314044500 +0000" stop="20250314050000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250314050000 +0000" stop="20250314053000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Treino Aberto</title>
+<desc lang="pt-BR">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+</programme>
+<programme start="20250314053000 +0000" stop="20250314063000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250314063000 +0000" stop="20250314063500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314063500 +0000" stop="20250314082500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidade Kids</title>
+<desc lang="pt-BR">A faixa de horário exibe programas voltados para o público infantil.</desc>
+</programme>
+<programme start="20250314082500 +0000" stop="20250314083000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314083000 +0000" stop="20250314105500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa do Pop</title>
+<desc lang="pt-BR">Descontração, informação, bom humor, curiosidades, música, diversão, cultura e muita emoção.</desc>
+</programme>
+<programme start="20250314105500 +0000" stop="20250314110000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314110000 +0000" stop="20250314122500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Jornal da Cidade</title>
+<desc lang="pt-BR">As principais notícias do Brasil e do mundo e também da região metropolitana de Cuiabá.</desc>
+</programme>
+<programme start="20250314122500 +0000" stop="20250314123000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314123000 +0000" stop="20250314143000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Manhã com Sabor</title>
+<desc lang="pt-BR">Entretenimento, variedades, dicas e o irresistível aroma da culinária.</desc>
+</programme>
+<programme start="20250314143000 +0000" stop="20250314172500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Treino Aberto</title>
+<desc lang="pt-BR">Fique por dentro de tudo que acontece no mundo dos esportes, com notícias e comentários.</desc>
+</programme>
+<programme start="20250314172500 +0000" stop="20250314173000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314173000 +0000" stop="20250314180000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250314180000 +0000" stop="20250314183000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250314183000 +0000" stop="20250314184500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250314184500 +0000" stop="20250314194500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">É Desse Jeito</title>
+<desc lang="pt-BR">Caio Cordeiro dá voz à comunidade cristã de Cuiabá e região.</desc>
+</programme>
+<programme start="20250314194500 +0000" stop="20250314204000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Pregação Pastora Talitha Pereira</title>
+<desc lang="pt-BR">Acompanhe a pregação da palavra de Deus e com a pastora e encorajadora feminina Talitha Pereira.</desc>
+</programme>
+<programme start="20250314204000 +0000" stop="20250314204500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314204500 +0000" stop="20250314211500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caminhos do Brasil</title>
+<desc lang="pt-BR">Veja as mais diferentes regiões do país com imagens documentais, costumes, receitas e culturas.</desc>
+</programme>
+<programme start="20250314211500 +0000" stop="20250314213000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Canal dos Clubes</title>
+<desc lang="pt-BR">Acompanhe o resumo do que rola nos campeonatos antes, durante e depois das partidas.</desc>
+</programme>
+<programme start="20250314213000 +0000" stop="20250314215500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250314215500 +0000" stop="20250314220000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314220000 +0000" stop="20250314225500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250314225500 +0000" stop="20250314230000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250314230000 +0000" stop="20250315000000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250315000000 +0000" stop="20250315003000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250315003000 +0000" stop="20250315012500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa da Gente</title>
+<desc lang="pt-BR">Laerte Lannes traz as principais notícias políticas e policiais do Mato Grosso e do Brasil.</desc>
+</programme>
+<programme start="20250315012500 +0000" stop="20250315013000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Shopping Cidade</title>
+<desc lang="pt-BR">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+</programme>
+<programme start="20250315013000 +0000" stop="20250315020000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250315020000 +0000" stop="20250315030000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidadão Consumidor</title>
+<desc lang="pt-BR">Acompanhe as conversas com especialistas sobre os assuntos de interesse do cidadão consumidor.</desc>
+</programme>
+<programme start="20250315030000 +0000" stop="20250315031500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250315031500 +0000" stop="20250315041500 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Boa Noite Elias Neto</title>
+<desc lang="pt-BR">Elias Neto entrevista convidados, aborda os mais variados assuntos de interesse social. E os espectadores tem a oportunidade de interagir e participar.</desc>
+</programme>
+<programme start="20250315041500 +0000" stop="20250315043000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250315043000 +0000" stop="20250315100000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidade Kids</title>
+<desc lang="pt-BR">A faixa de horário exibe programas voltados para o público infantil.</desc>
+</programme>
+<programme start="20250315100000 +0000" stop="20250315110000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250315110000 +0000" stop="20250315120000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Cidade Kids</title>
+<desc lang="pt-BR">A faixa de horário exibe programas voltados para o público infantil.</desc>
+</programme>
+<programme start="20250315120000 +0000" stop="20250315130000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Manhã Sertaneja</title>
+<desc lang="pt-BR">Um novo conceito em entretenimento e cultura, valorizando os artistas locais.</desc>
+</programme>
+<programme start="20250315130000 +0000" stop="20250315140000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Isso É Pecuária</title>
+<desc lang="pt-BR">Um mergulho no universo da pecuária, com dicas e informações indispensáveis. Traz também um boletim atualizado da pecuária, com os últimos dados de mercado, além de um quadro de receitas.</desc>
+</programme>
+<programme start="20250315140000 +0000" stop="20250315143000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Pago</title>
+<desc lang="pt-BR">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20250315143000 +0000" stop="20250315160000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Pop Show</title>
+<desc lang="pt-BR">Descontração, informação, bom humor, curiosidades, música, diversão, cultura e muita emoção.</desc>
+</programme>
+<programme start="20250315160000 +0000" stop="20250315170000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Transportador</title>
+<desc lang="pt-BR">As histórias de estradas, a rotina do transportador rodoviário de cargas e muito mais.</desc>
+</programme>
+<programme start="20250315170000 +0000" stop="20250315180000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Devoção Sertaneja</title>
+<desc lang="pt-BR">O programa mantém viva a cultura caipira e traz os sucessos da viola de raiz.</desc>
+</programme>
+<programme start="20250315180000 +0000" stop="20250315183000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250315183000 +0000" stop="20250315190000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caldeirão do Bruxo</title>
+<desc lang="pt-BR">Messias Bruxo fala sobre as personalidades do estado e celebridades mundiais.</desc>
+</programme>
+<programme start="20250315190000 +0000" stop="20250315200000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">É Desse Jeito</title>
+<desc lang="pt-BR">Caio Cordeiro dá voz à comunidade cristã de Cuiabá e região.</desc>
+</programme>
+<programme start="20250315200000 +0000" stop="20250315203000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caminhos do Brasil</title>
+<desc lang="pt-BR">Veja as mais diferentes regiões do país com imagens documentais, costumes, receitas e culturas.</desc>
+</programme>
+<programme start="20250315203000 +0000" stop="20250315210000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Na Cozinha com Márcia Kappes</title>
+<desc lang="pt-BR">Márcia Kappes mostra suas melhores receitas e dá ao telespectador as melhores dicas culinárias.</desc>
+</programme>
+<programme start="20250315210000 +0000" stop="20250315213000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250315213000 +0000" stop="20250315223000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Programa Estilo</title>
+<desc lang="pt-BR">Acompanhe o que acontece no mundo do entretenimento e das celebridades em Mato Grosso.</desc>
+</programme>
+<programme start="20250315223000 +0000" stop="20250315230000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Caiu na Rede</title>
+<desc lang="pt-BR">Kbça Pensante apresenta os melhores vídeos da internet com a linguagem regional.</desc>
+</programme>
+<programme start="20250315230000 +0000" stop="20250315233000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Música na Rede</title>
+<desc lang="pt-BR">Confira os melhores videoclipes musicais da programação.</desc>
+</programme>
+<programme start="20250315233000 +0000" stop="20250316003000 +0000" channel="TVCidadeVerde(Portuguese).br">
+<title lang="pt-BR">Amigos do Teodoro &amp; Sampaio</title>
+<desc lang="pt-BR">Grandes nomes da música popular brasileira se encontram para um descontraído bate-papo. Os convidados também participam de uma roda de viola.</desc>
+</programme>
+</tv>
