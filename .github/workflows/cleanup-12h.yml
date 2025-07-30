@@ -1,108 +1,111 @@
-# Nome do workflow que aparecerá na interface do GitHub Actions
-name: 🧹🧹Limpar Execuções de Workflow Antigas (12h)
+# 📛 Nome do workflow que aparecerá na interface do GitHub Actions
+name: 🧹Limpar Execuções de Workflow Antigas (12h)
 
-# Configuração dos gatilhos do workflow
+# 🟡 Gatilhos que disparam a execução do workflow
 on:
-  # Agendamento de execução automática
+  # ⏰ Disparo automático com base em agendamento (CRON)
   schedule:
-    # Cron expression que executa a cada 12 horas, no minuto 1
-    # Formato: minuto hora dia-do-mês mês dia-da-semana
-    # */12 - a cada 12 horas
+    # Executa a cada 12 horas, sempre no minuto 1 (ex: 01:00 e 13:00 UTC)
     - cron: '1 */12 * * *'
-  
-  # Permite execução manual através da interface do GitHub
+
+  # 🧑‍💻 Permite execução manual pela interface do GitHub (botão "Run workflow")
   workflow_dispatch:
 
-# Definição dos jobs (tarefas) que serão executados
+# 🧱 Definição do job principal chamado "cleanup"
 jobs:
-  # Job principal de limpeza
   cleanup:
-    # Configura o ambiente de execução (última versão do Ubuntu)
+    # 🖥️ Define que o job será executado em uma máquina virtual Ubuntu
     runs-on: ubuntu-latest
-    
-    # Permissões necessárias para o job
+
+    # 🔐 Define as permissões necessárias para que o job possa deletar execuções
     permissions:
-      # Permissão para gerenciar execuções do GitHub Actions
-      actions: write
+      actions: write  # Permite deletar execuções de workflows usando a API do GitHub
 
-    # Passos sequenciais que serão executados
+    # 📋 Lista de passos que serão executados dentro do job
     steps:
-      # Passo para deletar execuções antigas
       - name: 🗑️ Deletar execuções de workflow antigas
-        # Variáveis de ambiente disponíveis para este passo
+        # 🌱 Define variáveis de ambiente disponíveis neste passo
         env:
-          # Token de autenticação automático do GitHub
+          # Token de autenticação automática fornecido pelo GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
-        # Script shell que será executado
+
+        # ▶️ Comandos que serão executados no shell
         run: |
-          # 1. Início do processo - mensagem informativa
-          echo "🔍 Buscando execuções de workflow antigas..."
+          # 🔍 Mensagem inicial
+          echo "🔍 Iniciando verificação de execuções com mais de 12 horas..."
 
-          # 2. Obter todas as execuções de workflow do repositório
-          # Usa a CLI do GitHub (gh) para fazer uma chamada à API
-          # -H: Define o header Accept
-          # /repos/{owner}/{repo}/actions/runs: Endpoint da API
-          # --jq: Filtra o JSON de resposta para obter apenas id, created_at e status
-          runs=$(gh api \
-            -H "Accept: application/vnd.github.v3+json" \
-            "/repos/${{ github.repository }}/actions/runs" \
-            --jq '.workflow_runs[] | {id, created_at, status}')
-
-          # 3. Verifica se há execuções para processar
-          if [ -z "$runs" ]; then
-            echo "✅ Nenhuma execução de workflow encontrada."
-            # Sai com código 0 (sucesso) se não houver execuções
-            exit 0
-          fi
-
-          # 4. Obtém o timestamp atual em segundos (UTC)
+          # 🕒 Obtém o timestamp atual em segundos (UTC)
           now=$(date -u +%s)
 
-          # 5. Processa cada execução encontrada
-          # Usa jq para iterar sobre cada objeto JSON
-          # -c: Saída compacta (uma linha por objeto)
-          echo "$runs" | jq -c 'select(.created_at != null)' | while read -r run; do
-            # 5.1 Extrai o ID da execução
-            id=$(echo "$run" | jq -r '.id')
-            
-            # 5.2 Extrai a data de criação
-            created_at=$(echo "$run" | jq -r '.created_at')
+          # 📄 Define a quantidade máxima de execuções retornadas por página (100 é o limite da API)
+          per_page=100
 
-            # 5.3 Converte a data de criação para timestamp Unix
-            # Tenta primeiro com formato GNU (Linux)
-            if date -u -d "$created_at" >/dev/null 2>&1; then
-              run_date=$(date -u -d "$created_at" +%s)
-            # Se falhar, tenta formato BSD (macOS)
-            elif date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "$created_at" >/dev/null 2>&1; then
-              run_date=$(date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "$created_at" +%s)
-            # Se ambos falharem, registra erro e continua
-            else
-              echo "⚠️ Não foi possível analisar a data: $created_at"
-              continue
+          # 📄 Começa da página 1 (para paginação dos resultados)
+          page=1
+
+          # 🧮 Contador de execuções deletadas
+          deleted=0
+
+          # 🔁 Laço para percorrer todas as páginas até que não haja mais execuções
+          while true; do
+            echo "📄 Buscando página $page de execuções..."
+
+            # 🔽 Chamada à API para obter execuções da página atual
+            # O --jq filtra os campos 'id' e 'created_at' de cada execução
+            runs=$(gh api \
+              -H "Accept: application/vnd.github.v3+json" \
+              "/repos/${{ github.repository }}/actions/runs?per_page=$per_page&page=$page" \
+              --jq '.workflow_runs[] | {id, created_at, status}')
+
+            # ❌ Se a variável runs estiver vazia, não há mais execuções nesta página
+            if [ -z "$runs" ]; then
+              echo "✅ Nenhuma execução encontrada na página $page. Fim da paginação."
+              break  # Encerra o laço
             fi
 
-            # 5.4 Calcula a diferença de tempo em segundos
-            diff_seconds=$(( now - run_date ))
-            # Converte para horas (3600 segundos = 1 hora)
-            diff_hours=$(( diff_seconds / 3600 ))
+            # 🔁 Itera sobre cada execução retornada
+            echo "$runs" | jq -c 'select(.created_at != null)' | while read -r run; do
+              # 🔢 Extrai o ID da execução
+              id=$(echo "$run" | jq -r '.id')
 
-            # 5.5 Verifica se a execução tem mais de 12 horas
-            if [ "$diff_hours" -ge 12 ]; then
-              # 5.5.1 Log informativo antes de deletar
-              echo "🗑️ Deletando execução de workflow ID: $id (Criada há $diff_hours horas)"
-              
-              # 5.5.2 Chamada à API para deletar a execução
-              gh api \
-                --method DELETE \
-                -H "Accept: application/vnd.github.v3+json" \
-                "/repos/${{ github.repository }}/actions/runs/$id" \
-                >/dev/null 2>&1 || echo "⚠️ Falha ao deletar execução ID: $id"
-            else
-              # 5.6 Log para execuções que serão mantidas
-              echo "✅ Execução de workflow ID: $id ainda não tem 12 horas (Criada há $diff_hours horas)"
-            fi
+              # 🗓️ Extrai a data de criação (formato ISO 8601)
+              created_at=$(echo "$run" | jq -r '.created_at')
+
+              # 🕒 Converte a data de criação para timestamp Unix (em segundos)
+              if date -u -d "$created_at" >/dev/null 2>&1; then
+                # ✅ Compatível com Linux (GNU)
+                run_date=$(date -u -d "$created_at" +%s)
+              elif date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "$created_at" >/dev/null 2>&1; then
+                # ✅ Compatível com macOS (BSD)
+                run_date=$(date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "$created_at" +%s)
+              else
+                # ⚠️ Se não conseguir converter, exibe aviso e pula
+                echo "⚠️ Data inválida: $created_at"
+                continue
+              fi
+
+              # 📏 Calcula diferença de tempo entre agora e a data da execução (em horas)
+              diff_hours=$(( (now - run_date) / 3600 ))
+
+              # 🧹 Se a execução tiver mais de 12 horas
+              if [ "$diff_hours" -ge 12 ]; then
+                echo "🗑️ Deletando execução ID: $id (Criada há $diff_hours horas)"
+
+                # 🧨 Requisição DELETE para remover a execução usando a API
+                gh api \
+                  --method DELETE \
+                  -H "Accept: application/vnd.github.v3+json" \
+                  "/repos/${{ github.repository }}/actions/runs/$id" \
+                  >/dev/null 2>&1 && deleted=$((deleted + 1)) || echo "⚠️ Falha ao deletar execução ID: $id"
+              else
+                # ⏳ Se tiver menos de 12h, apenas exibe log e mantém
+                echo "✅ Execução ID: $id tem apenas $diff_hours horas — será mantida."
+              fi
+            done
+
+            # 🔁 Incrementa o número da página para buscar a próxima
+            page=$((page + 1))
           done
-          
-          # 6. Mensagem final indicando conclusão do processo
-          echo "🏁 Processo de limpeza concluído!"
+
+          # 🧾 Mensagem final com total de execuções removidas
+          echo "🏁 Processo concluído. Total de execuções deletadas: $deleted"
