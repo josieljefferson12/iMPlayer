@@ -2,7 +2,7 @@ name: MY_GITHUB_TOKEN_M3U_EPG_OFFICIAL
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Executa diariamente à meia-noite
+    - cron: '1 0 1-31/2 * *'  # Executa diariamente à meia-noite
   workflow_dispatch:
 
 jobs:
